@@ -1,1 +1,1 @@
-ISM-aligned images of various ISM structures in L1688, based on SimpleITK image registration.
+Two-epoch images of various ISM structures in L1688 aligned with image_registration.fft_tools.shift, with offsets extracted using SimpleITK image registration.
